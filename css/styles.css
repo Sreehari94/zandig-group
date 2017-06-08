@@ -1,0 +1,70 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,100,300,700,600);
+h2.header-content{
+	font-family: 'Raleway', sans-serf;
+	font-weight: bold;
+	font-size: 70px;
+}
+div.about-content{
+	text-align: justify;
+	font-family: 
+}
+img.about-image{
+	padding-top:30%;
+}
+img{
+	max-width: 100%;
+	max-height: 100%;
+}
+#clients{
+	padding: 100px 0 70px;
+}
+.client-carousel{
+	padding-top:40px;
+}
+.client-carousel .item a{
+	margin-right:20px;
+	border:1px solid rgba(255, 255, 255, .3);
+	display:inline-block;padding:10px;
+	-webkit-transition:all 350ms;
+	-ms-transition:all 350ms;
+	transition:all 350ms;
+}
+.client-carousel .item a:hover{
+	border:1px solid rgba(255, 255, 255,1);
+}
+.col-xs-12{
+width:100%;
+position: relative;
+min-height: 1px;
+padding-right: 15px;
+padding-left: 15px;
+}
+.col-md-12{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.owl-carousel{
+	display: block;
+	overflow:hidden;
+	width: 100%;
+	text-align: center;
+    z-index:1;
+}
+img.client-icon {
+	height: 50px;
+	width:170px;
+	padding-left: 0%;
+	padding-right: 0%;
+}
+.client-logo{
+	padding:0%;
+	max-width: 200px;
+}
+.owl-item{
+	width:352px;
+}
+
+p.career{
+	font-size: 14px;
+	color:lightgray;
+}
